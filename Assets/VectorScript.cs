@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class VectorScript : MonoBehaviour
 {
-    Vector3 moveVelocity = new Vector3(0.3f, 0.0f, 0.3f);
+    Vector3 moveVelocity = new Vector3(0.3f, 0.0f, 0.4f);
   
     void Start()
     {
